@@ -9,7 +9,7 @@ return [
     //these two params are used in FlexWidget to display Apache Flex application
     'flexAppBasePath' => '/flexapps/apom',
     'flexRSLBasePath' => '/flexapps/rsls',
-    'flexModuleBasePath' => '/flexapps/projectkit/modules',
+    'flexModuleBasePath' => '/flexapps/apom/modules',
     //The path to static resource folder
-    'flexResourceBaseUrl' => '/flexapps/projectkit/resources',
+    'flexResourceBaseUrl' => '/flexapps/apom/resources',
 ];
