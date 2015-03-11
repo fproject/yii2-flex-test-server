@@ -28,5 +28,3 @@ phpunit.phar
 
 fprj-core-test-debug
 composer.lock
-
-/web/flexapps
